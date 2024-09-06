@@ -26,3 +26,5 @@ Essa aplicação simples e intuitiva te permite encontrar informações sobre se
 **Vamos juntos torcer pelo Brasil!** 🇧🇷
 
 **#Olimpíadas #AtletasBrasileiros #Busca #JavaScript #HTML #CSS**
+
+**Utilizado o Vercel para publicação**
